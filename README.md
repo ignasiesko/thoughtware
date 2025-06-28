@@ -89,15 +89,6 @@ This repository is both a philosophical framework and a technical playground —
 - Hofstadter, GEB: Strange loops, dimensional cognition
 
 ---
-## ✅ How to Use This Repo
-
-- Clone it locally or fork it
-- Read essays in /ideas/
-- Run prototypes in /dev/
-- Track and expand thinking in /stream/
-- Build diagrams, dashboards, agents, or websites
-
----
 ## 🔮 Future Directions
 
 - Build a visual knowledge interface (thought → plot → agent)
@@ -107,3 +98,11 @@ This repository is both a philosophical framework and a technical playground —
 
 ---
 “You are not creating your future. You are walking the memory of it.”
+
+---
+
+So this ☝️ is the manifest of my first raw thought. It should all start connecting on the way. 
+
+Also, just watched 'Ready Player One', convinced that I need to read it. Which led me on a thought, that it's insane to think that I'm stuck in "this thought", compared to i.e. chip engineering. While, I am on my way to 'connect' the first repository on GitHub. And just saying, we have jet planes (I don't even know how are they properly called), that can go over 10km/h.
+
+Is there still time? 
