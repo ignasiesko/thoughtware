@@ -38,7 +38,7 @@ It treats tools as mind extensions, data as reality, and AI as mirrors of though
 │   └── autogen-nodes/
 └── stream/
     └── origin.md
-
+```
 ---
 
 ## 🌱 Core Themes
